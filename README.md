@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kenneth and I'm a Software Engineer, from Miami, FL</h2>
+<h2 align="left">Hello 👋 My name is Kenneth and I'm a Software Engineer from Miami, FL</h2>
 
 ###
 
