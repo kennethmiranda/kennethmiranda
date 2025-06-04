@@ -1,10 +1,11 @@
-<h1>Hi, I'm Kenny! <br/><a href="https://github.com/kennethmiranda">Programmer</a> & <a href="https://www.linkedin.com/in/kenneth-miranda-xyz">It Support</a>
+<h1>Hi, I'm Kenny! <br/><a href="https://github.com/kennethmiranda">Programmer</a> & <a href="https://www.linkedin.com/in/kenneth-miranda-xyz">It Support</a></h1>
 
 <h2>Certifications:</h2>
 
 - [CompTIA A+ ce Certification](https://www.credly.com/badges/714eb243-eed1-40e1-becc-974660af8372/public_url)
 
 <h2>Projects:</h2>
+
 - <b>Full Stack Web App (React, Next.js, TypeScript + NodeJS, MySQL)</b>
   - [Taskly: Task Management System](https://github.com/kennethmiranda/taskly)
 
