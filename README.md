@@ -9,6 +9,8 @@
 - <b>Full Stack Web App (React, Next.js, TypeScript + NodeJS, MySQL)</b>
   - [Taskly: Task Management System](https://github.com/kennethmiranda/taskly)
 
+
+<h2>📱 Programming:</h2>
 ###
 
 <div align="left">
@@ -35,7 +37,7 @@
 
 ###
 
-<h2> 🤳 Connect with me:</h2>
+<h2>📱 Socials:</h2>
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kennymiranda000@gmail.com)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kenneth-miranda-xyz)
