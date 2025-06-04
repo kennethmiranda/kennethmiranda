@@ -9,8 +9,6 @@
 - <b>Full Stack Web App (React, Next.js, TypeScript + NodeJS, MySQL)</b>
   - [Taskly: Task Management System](https://github.com/kennethmiranda/taskly)
 
-
-<h2>📱 Programming:</h2>
 ###
 
 <div align="left">
