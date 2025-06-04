@@ -20,20 +20,20 @@
 
 ## 💼 Featured Projects
 
-### 📁 [Taskly: Task Management System](https://github.com/kennethmiranda/taskly)
-> Full Stack Web App using **React**, **Next.js**, **TypeScript**, **Node.js**, and **MySQL**.
-- Role-based task tracking system.
-- Modern UI with responsive design.
-
-### 🖥️ [osTicket Azure Lab](https://github.com/kennethmiranda/osticket-azure-lab)
-> Step-by-step deployment of **osTicket** on a **Windows 10 Pro VM** using **Microsoft Azure**.
+### 🖥️ [osTicket Azure VM Lab](https://github.com/kennethmiranda/osticket-azure-lab)
+> Step-by-step deployment of **osTicket** on a **Windows 10 Pro Virtual Machine** using **Microsoft Azure**.
 - Demonstrates help desk ticketing setup for IT Support experience.
 - Includes screenshots and setup documentation.
 
 ### 🏠 [Active Directory Home Lab](https://github.com/kennethmiranda/active-directory-home-lab)
-> Complete home lab for learning **Windows Server & Active Directory** using **VirtualBox**.
+> Complete home lab for learning **Windows Server & Active Directory** using **Oracle VirtualBox**.
 - Configure a domain controller, users, and group policy.
-- Ideal for hands-on IT troubleshooting practice.
+- Hands-on IT troubleshooting practice.
+
+### 📁 [Taskly: Task Management System](https://github.com/kennethmiranda/taskly)
+> Full Stack Web App using **React**, **Next.js**, **TypeScript**, **Node.js**, and **MySQL**.
+- Role-based task tracking system.
+- Modern UI with responsive design.
 
 ---
 
