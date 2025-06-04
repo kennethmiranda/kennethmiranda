@@ -30,7 +30,7 @@
 - Configure a domain controller, users, and group policy.
 - Hands-on IT troubleshooting practice.
 
-### 📁 [Taskly: Task Management System](https://github.com/kennethmiranda/taskly)
+### ☑️ [Taskly: Task Management System](https://github.com/kennethmiranda/taskly)
 > Full Stack Web App using **React**, **Next.js**, **TypeScript**, **Node.js**, and **MySQL**.
 - Role-based task tracking system.
 - Modern UI with responsive design.
