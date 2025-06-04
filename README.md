@@ -1,4 +1,12 @@
-<h2 align="left">Hello 👋 My name is Kenneth and I'm a Software Engineer from Miami, FL</h2>
+<h1>Hi, I'm Kenny! <br/><a href="https://github.com/kennethmiranda">Programmer</a> & <a href="https://www.linkedin.com/in/kenneth-miranda-xyz">It Support</a>
+
+<h2>Certifications:</h2>
+
+- [CompTIA A+ ce Certification](https://www.credly.com/badges/714eb243-eed1-40e1-becc-974660af8372/public_url)
+
+<h2>Projects:</h2>
+- <b>Full Stack Web App (React, Next.js, TypeScript + NodeJS, MySQL)</b>
+  - [Taskly: Task Management System](https://github.com/kennethmiranda/taskly)
 
 ###
 
@@ -26,10 +34,10 @@
 
 ###
 
+<h2> 🤳 Connect with me:</h2>
+
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kennymiranda000@gmail.com)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kenneth-miranda-xyz)
-
-###
 
 <div align="left">
   <a href="https://open.spotify.com/user/kennytheleon">
