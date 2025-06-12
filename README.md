@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kenny! 👋</h1>
 <h3 align="center">
-<a href="https://github.com/kennethmiranda">It Support Specialist</a> &bull; 
+<a href="https://github.com/kennethmiranda">IT Specialist</a> &bull; 
 <a href="https://www.linkedin.com/in/kenneth-miranda-xyz">Programmer</a>
 </h3>
 
