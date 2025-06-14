@@ -14,7 +14,8 @@
 ---
 
 ## 🏅 Certifications
-- [CompTIA A+ ce Certification](https://www.credly.com/badges/714eb243-eed1-40e1-becc-974660af8372/public_url)
+- [CompTIA A+ ce Certification](https://www.credly.com/badges/714eb243-eed1-40e1-becc-974660af8372/public_url)    Complete
+- [Red Hat Certified System Administrator]() In Progress
 
 ---
 
