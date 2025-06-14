@@ -30,6 +30,11 @@
 - Configure a domain controller, users, and group policy.
 - Hands-on IT troubleshooting practice.
 
+### 💾 [Linux VM Backup Automation](https://github.com/kennethmiranda/linux-vm-backups)
+> Bash script automating backups of user data, home directories, and system configs in **Linux Virtual Machine** using **Oracle VirtualBox**.
+- Implements scheduled backups and retention cleanup for reliable data protection.
+- Demonstrates practical Linux scripting and IT support automation skills.
+
 ### ☑️ [Taskly: Task Management System](https://github.com/kennethmiranda/taskly)
 > Full Stack Web App using **React**, **Next.js**, **TypeScript**, **Node.js**, and **MySQL**.
 - Role-based task tracking system.
