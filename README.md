@@ -22,7 +22,7 @@
 
 ## 💼 Featured Projects
 
-### 🖥️ [osTicket Azure VM Lab](https://github.com/kennethmiranda/osticket-azure-lab)
+### 🖥️ [Ticketing System on Azure](https://github.com/kennethmiranda/osticket-azure-lab)
 > Step-by-step deployment of **osTicket** on a **Windows 10 Pro Virtual Machine** using **Microsoft Azure**.
 - Demonstrates help desk ticketing setup for IT Support experience.
 - Includes screenshots and setup documentation.
