@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kenny! 👋</h1>
 <h3 align="center">
-<a href="https://github.com/kennethmiranda">IT Specialist</a> &bull; 
+<a href="https://github.com/kennethmiranda">Junior Systems Administrator</a> &bull; 
 <a href="https://www.linkedin.com/in/kenneth-miranda-xyz">Programmer</a>
 </h3>
 
@@ -15,7 +15,8 @@
 
 ## 🏅 Certifications
 - [CompTIA A+ ce Certification](https://www.credly.com/badges/714eb243-eed1-40e1-becc-974660af8372/public_url)    (Complete)
-- [CompTIA Security+ Certification]()    (In Progress - Expected August)
+- [CompTIA Security+ Certification](https://www.credly.com/badges/810b7d88-bbd9-495b-892c-ffce52ca387d/public_url)    (Complete)
+- [AZ-900]()             (In Progress)
 - [Red Hat Certified System Administrator]()             (Planning)
 
 ---
@@ -27,12 +28,12 @@
 - Demonstrates help desk ticketing setup for IT Support experience.
 - Includes screenshots and setup documentation.
 
-### 🏠 [Active Directory Home Lab](https://github.com/kennethmiranda/active-directory-home-lab)
+### 🏠 [Active Directory Enterprise Lab](https://github.com/kennethmiranda/active-directory-home-lab)
 > Complete home lab for learning **Windows Server & Active Directory** using **Oracle VirtualBox**.
 - Configure a domain controller, users, and group policy.
 - Hands-on IT troubleshooting practice.
 
-### 💾 [Linux Bash Data Backups Automation](https://github.com/kennethmiranda/linux-vm-backups)
+### 💾 [Linux Administration & Automation](https://github.com/kennethmiranda/linux-vm-backups)
 > Bash script automating backups of user data, home directories, and system configs in **Linux Virtual Machine** using **Oracle VirtualBox**.
 - Implements scheduled backups and retention cleanup for reliable data protection.
 - Demonstrates practical Linux scripting and IT support automation skills.
