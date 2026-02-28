@@ -62,7 +62,7 @@
 
 ## 📊 Languages I Use Most
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethmiranda&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethmiranda&layout=compact&cache_seconds=86400)
 
 ---
 
