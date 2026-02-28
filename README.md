@@ -60,9 +60,9 @@
 
 ---
 
-## 📊 Languages I Use Most
+## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethmiranda&layout=compact&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kennethmiranda&layout=compact)
 
 ---
 
