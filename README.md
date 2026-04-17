@@ -28,10 +28,8 @@
 ### 💾 [Linux Systems Administration & Automation Lab](https://github.com/kennethmiranda/linux-sysadmin-lab)
 A hands-on Linux systems administration lab built on Ubuntu (VirtualBox) simulating enterprise server operations. This lab covers user and group management, SSH hardening, sudo policy enforcement, firewall configuration, systemd service management, Bash automation, and real-world troubleshooting scenarios.
 
-### 🏠 [Active Directory Enterprise Lab](https://github.com/kennethmiranda/active-directory-home-lab)
-> Complete home lab for learning **Windows Server & Active Directory** using **Oracle VirtualBox**.
-- Configure a domain controller, users, and group policy.
-- Hands-on IT troubleshooting practice.
+### 🏠 [Active Directory Enterprise Lab](https://github.com/kennethmiranda/ad-sysadmin-lab)
+A hands-on Windows Server Active Directory lab built on Oracle VirtualBox simulating enterprise identity and infrastructure administration. This lab covers domain controller deployment, OU design, Group Policy security baselines, PowerShell automation, DHCP/DNS configuration, RBAC, and real-world troubleshooting scenarios — mirroring the tasks performed daily in enterprise sysadmin roles.
 
 ### 🖥️ [Ticketing System on Azure](https://github.com/kennethmiranda/osticket-azure-lab)
 > Step-by-step deployment of **osTicket** on a **Windows 10 Pro Virtual Machine** using **Microsoft Azure**.
