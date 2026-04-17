@@ -25,20 +25,18 @@
 
 ## 💼 Featured Projects
 
-### 🖥️ [Ticketing System on Azure](https://github.com/kennethmiranda/osticket-azure-lab)
-> Step-by-step deployment of **osTicket** on a **Windows 10 Pro Virtual Machine** using **Microsoft Azure**.
-- Demonstrates help desk ticketing setup for IT Support experience.
-- Includes screenshots and setup documentation.
+### 💾 [Linux Systems Administration & Automation Lab](https://github.com/kennethmiranda/linux-sysadmin-lab)
+A hands-on Linux systems administration lab built on Ubuntu (VirtualBox) simulating enterprise server operations. This lab covers user and group management, SSH hardening, sudo policy enforcement, firewall configuration, systemd service management, Bash automation, and real-world troubleshooting scenarios.
 
 ### 🏠 [Active Directory Enterprise Lab](https://github.com/kennethmiranda/active-directory-home-lab)
 > Complete home lab for learning **Windows Server & Active Directory** using **Oracle VirtualBox**.
 - Configure a domain controller, users, and group policy.
 - Hands-on IT troubleshooting practice.
 
-### 💾 [Linux Administration & Automation](https://github.com/kennethmiranda/linux-vm-backups)
-> Bash script automating backups of user data, home directories, and system configs in **Linux Virtual Machine** using **Oracle VirtualBox**.
-- Implements scheduled backups and retention cleanup for reliable data protection.
-- Demonstrates practical Linux scripting and IT support automation skills.
+### 🖥️ [Ticketing System on Azure](https://github.com/kennethmiranda/osticket-azure-lab)
+> Step-by-step deployment of **osTicket** on a **Windows 10 Pro Virtual Machine** using **Microsoft Azure**.
+- Demonstrates help desk ticketing setup for IT Support experience.
+- Includes screenshots and setup documentation.
 
 ### ☑️ [Taskly: Task Management System](https://github.com/kennethmiranda/taskly)
 > Full Stack Web App using **React**, **Next.js**, **TypeScript**, **Node.js**, and **MySQL**.
