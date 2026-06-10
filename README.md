@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-IT professional focused on **systems administration, identity & access management, and cloud infrastructure**. I build hands-on labs to go deeper than the help desk — then I document everything.
+IT professional focused on **systems administration, identity & access management, and cloud infrastructure**.
 
 - 🔐 Specializing in **IAM, identity governance, and hybrid cloud environments**
 - 🐧 **RHCSA certified** — passed using a self-built RHEL/Ubuntu multi-node lab
